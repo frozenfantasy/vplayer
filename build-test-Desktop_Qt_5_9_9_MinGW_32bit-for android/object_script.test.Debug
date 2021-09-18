@@ -1,0 +1,16 @@
+INPUT(
+./debug\clientwidget.o
+./debug\mark_bar.o
+./debug\main.o
+./debug\mainwindow.o
+./debug\misc.o
+./debug\mthread.o
+./debug\player.o
+./debug\temp_manager.o
+./debug\multi_player.o
+./debug\moc_clientwidget.o
+./debug\moc_mark_bar.o
+./debug\moc_mainwindow.o
+./debug\moc_player.o
+./debug\moc_multi_player.o
+);

@@ -1,0 +1,16 @@
+INPUT(
+./release\clientwidget.o
+./release\mark_bar.o
+./release\main.o
+./release\mainwindow.o
+./release\misc.o
+./release\mthread.o
+./release\player.o
+./release\temp_manager.o
+./release\multi_player.o
+./release\moc_clientwidget.o
+./release\moc_mark_bar.o
+./release\moc_mainwindow.o
+./release\moc_player.o
+./release\moc_multi_player.o
+);
