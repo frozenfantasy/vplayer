@@ -1,0 +1,2 @@
+# vplayer
+qt with opencv
